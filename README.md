@@ -40,7 +40,7 @@ Tech Spec
 
 Version 642 Modifications
 ========
-* Changing the default **P2P** and **RPC** ports due to non standard range (65555 to 60555 etc.)
+* Changing the default **P2P** and **RPC** ports due to non standard range (from 65555 to 60555 etc.)
 * Checkpoints up to block 190613
 * Added a Windows compiling IF in **rpcnet.cpp** source file
 * Added a Windows compiling IF in **irc.cpp** source file
