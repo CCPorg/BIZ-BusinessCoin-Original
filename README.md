@@ -3,7 +3,7 @@ BIZ - BusinessCoin
 BusinessCoin is a scrypt ALGO based crypto coin like Litecoin but with random rewards feature from Luckycoin (random blocks) and with transaction message feature from Florincoin (transaction message).  
 BusinessCoin is a fast and secure crypto currency ready for micro sales of goods, services payment and focused on industry specific needs.
 
-** If you are involved in any kind of business BusinessCoin can make your job easier! **
+**If you are involved in any kind of business BusinessCoin can make your job easier!**
 
 
 Default Ports
@@ -40,13 +40,13 @@ Tech Spec
 
 Version 642 Modifications
 ========
-* Changing the default P2P and RPC ports due to non standard range
+* Changing the default **P2P** and **RPC** ports due to non standard range (65555 to 60555 etc.)
 * Checkpoints up to block 190613
 * Added a Windows compiling IF in **rpcnet.cpp** source file
 * Added a Windows compiling IF in **irc.cpp** source file
 * Change the version number from Ver. 631 to Ver 642
 * Random reward lowered but more frequent (From block 195K)
-* Introduction of super blocks for each new 100K block discovery (300K=2K BIZ; 400K=2K BIZ; 500K=2K BIZ - and so on)
+* Introduction of super blocks for each new 100K block discovery (300K=2K BIZ; 400K=2K BIZ; - and so on)
 * **REWARD HAVING REMOVED**
 
 ========
