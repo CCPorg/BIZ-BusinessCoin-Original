@@ -1,0 +1,9 @@
+Building BusinessCoin
+
+See doc/readme-qt.rst for instructions on building BusinessCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BusinessCoin.
+
+See doc/build-*.txt for instructions on building BusinessCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of BusinessCoin.
